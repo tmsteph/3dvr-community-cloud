@@ -1,5 +1,11 @@
 # 3DVR Community Cloud
 
+> **Moved 2026-11-08:** Community Cloud now lives in the portal monorepo at
+> [tmsteph/3dvr-portal/community-cloud](https://github.com/tmsteph/3dvr-portal/tree/main/community-cloud),
+> per Thomas's keep-everything-in-the-portal rule. This repo stays as a
+> public pointer and mirror of the founding snapshot; new work lands in the portal.
+
+
 **Like a crowdsourced AWS.**
 
 Do you have a computer sitting at home connected to the Internet? Sell
